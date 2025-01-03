@@ -1,0 +1,23 @@
+C:\Users\KMOHAMUD2\Documents\visual studio 2013\Projects\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.exe.config
+F:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.exe.config
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.csprojResolveAssemblyReference.cache
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.ChooseXO.resources
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Form1.resources
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Play.resources
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Properties.Resources.resources
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.csproj.GenerateResource.Cache
+F:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.exe
+F:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.pdb
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.exe
+F:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.pdb
+E:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.exe.config
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.exe
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.pdb
+E:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.exe
+E:\PRG655\TicTacToeClient\TicTacToeClient\bin\Debug\TicTacToeClient.pdb
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.csprojResolveAssemblyReference.cache
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.ChooseXO.resources
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Form1.resources
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Play.resources
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.Properties.Resources.resources
+E:\PRG655\TicTacToeClient\TicTacToeClient\obj\Debug\TicTacToeClient.csproj.GenerateResource.Cache

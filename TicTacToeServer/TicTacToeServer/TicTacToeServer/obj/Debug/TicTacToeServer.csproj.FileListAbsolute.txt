@@ -1,0 +1,22 @@
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.pdb
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.csprojResolveAssemblyReference.cache
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Form1.resources
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Properties.Resources.resources
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.csproj.GenerateResource.Cache
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.exe
+c:\users\kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.pdb
+C:\Users\Kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.ChooseXO.resources
+C:\Users\Kamal\documents\visual studio 2012\Projects\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Play.resources
+E:\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.exe
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.pdb
+E:\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe
+E:\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.pdb
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.csprojResolveAssemblyReference.cache
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.ChooseXO.resources
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Form1.resources
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Play.resources
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.Properties.Resources.resources
+E:\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.csproj.GenerateResource.Cache
